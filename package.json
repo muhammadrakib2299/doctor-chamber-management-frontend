@@ -1,6 +1,13 @@
 {
   "name": "doctor-chamber-frontend",
   "version": "1.0.0",
+  "description": "Next.js frontend for a doctor chamber (clinic) management system \u2014 admin, doctor and assistant portals with a real-time patient queue.",
+  "author": "Md. Rakib (https://devrakib.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadrakib2299/doctor-chamber-management-frontend.git"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
